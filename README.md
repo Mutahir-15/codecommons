@@ -26,9 +26,9 @@ This repository is perfect for:
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
 - **[Tailwind CSS Cheat-Sheet](https://tailwindcss.504b.cc/?ref=dailydev)**
 - **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
-- **[Roadmap to Python in 2025](https://machinelearningmastery.com/roadmap-to-python-in-2025/?ref=dailydev)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
+- **[Roadmap to Python in 2025](https://machinelearningmastery.com/roadmap-to-python-in-2025/?ref=dailydev)**
 - **[4 Basic Pillars of Python OOP](https://www.pythoncheatsheet.org/cheatsheet/oop-basics)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
