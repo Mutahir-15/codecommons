@@ -6,6 +6,7 @@ Agentic AI refers to artificial intelligence systems designed to act autonomousl
 
 This repository serves as a foundational guide and codebase for understanding and working with Agentic AI, combining modern frameworks, tools, and real-world examples.
 
+**[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**
 ---
 
 ## 🌍 Real-World Use Cases
