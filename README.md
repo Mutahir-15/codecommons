@@ -28,6 +28,7 @@ This repository is perfect for:
 - **[CSS Animations Generator](https://webcode.tools/css-generator/keyframe-animation?ref=dailydev)**
 - **[Introduction to *LangChain*](https://python.langchain.com/docs/introduction/)**
 - **[Cheatography *(MUST VISIT)*](https://cheatography.com/)**
+- **[Roadmap to Python in 2025](https://machinelearningmastery.com/roadmap-to-python-in-2025/?ref=dailydev)**
 - **[4 Basic Pillars of Python OOP](https://www.pythoncheatsheet.org/cheatsheet/oop-basics)**
 - **[Getting Started with Streamlit](https://www.pythonguis.com/tutorials/getting-started-with-streamlit/?ref=dailydev)**
 - **[Python Exercism | Tutorial / Learn](https://exercism.org/tracks/python/concepts)**
@@ -53,6 +54,7 @@ This repository is perfect for:
 - **[Fast API Crash Course | Easy Way](https://www.youtube.com/watch?v=TQfIUS52QHA)**
 - **[Python Crash Course (Apna College)](https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)**
 - **[Complete Typescript in under 5 hours](https://www.youtube.com/watch?v=ZchBYjHFCC4)**
+- **[Learn Python OOP in under 20 Minutes](https://www.youtube.com/watch?v=rLyYb7BFgQI)**
 - **[Agents SDK from OpenAI! | Full Tutorial](https://www.youtube.com/watch?v=35nxORG1mtg)**
 - **[Beginner Python Cheat-Sheet ppc-all PDF](https://github.com/panaversity/learn-modern-ai-python/blob/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/beginners_python_cheat_sheet_pcc_all.pdf)**
 - **[Beginner Python Cheat-Sheet individual PDF](https://github.com/panaversity/learn-modern-ai-python/tree/main/11_python_crash_course/python_crash_course_book_code_with_typing/cheat_sheets/color_sheets/individual_sheets_color)**
@@ -96,6 +98,7 @@ This repository is perfect for:
 - **[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/#heading-qr-code-encoder-decoder-python-project)**
 
 # 📌 Must Read Articles:
+- **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
 - **[Best AI Code Editors in 2025](https://www.builder.io/blog/best-ai-code-editors?ref=dailydev)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
