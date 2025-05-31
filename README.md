@@ -98,6 +98,7 @@ This repository is perfect for:
 - **[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/#heading-qr-code-encoder-decoder-python-project)**
 
 # 📌 Must Read Articles:
+- **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
 - **[Best AI Code Editors in 2025](https://www.builder.io/blog/best-ai-code-editors?ref=dailydev)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
