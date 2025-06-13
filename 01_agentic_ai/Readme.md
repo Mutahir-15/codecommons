@@ -33,12 +33,11 @@ This project leverages the following frameworks:
 
 ## 📚 Learning Resources
 
-**[Panaversity Learn Agentic-AI](https://github.com/panaversity/learn-agentic-ai/tree/main)**
+- **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**
+- **[Panaversity Learn Agentic-AI](https://github.com/panaversity/learn-agentic-ai/tree/main)**
+- **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 
 ---
-# Useful Links:
-- **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**
-- **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 
 ## 🙌 Contributing
 
