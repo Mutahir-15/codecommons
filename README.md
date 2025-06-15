@@ -129,6 +129,7 @@ This repository is perfect for:
 - **[50 Creative CSS Image Effects for Engaging Websites](https://prismic.io/blog/css-image-effects?ref=dailydev)**
 - **[A sleek Portfolio built with React.js and Tailwind CSS](https://dly.to/C2X62JT4Hfb)**
 - **[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)**
+- **[CSS Scroll Effects: 50 Interactive Animations to Try](https://prismic.io/blog/css-scroll-effects?ref=dailydev)**
 - **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
