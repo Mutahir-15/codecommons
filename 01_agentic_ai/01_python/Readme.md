@@ -1,4 +1,4 @@
-# 🐍 Python - CodeCommons
+# Python - CodeCommons
 
 Welcome to the **Python** section of the CodeCommons repository!  
 This space is dedicated to Python snippets, scripts, and mini-projects that solve common problems, demonstrate core concepts, and boost productivity for developers and learners alike.
