@@ -23,6 +23,8 @@ Python has numerous practical applications across various industries. Some of th
 - **Cybersecurity:** security testing and penetration testing
 - **Internet of Things (IoT):** building IoT applications and devices
 
+**Taken from: [Panaversity Modern AI Python (Complete Course)](https://github.com/panaversity/learn-modern-ai-python)**
+
 ---
 
 ## 📌 What You'll Find Here
