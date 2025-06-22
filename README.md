@@ -1,4 +1,4 @@
-# CodeCommons – Curated Developer Resources, Cheat Sheets & Project Ideas
+# CodeCommons – Curated Developer Resources, Cheat Sheets, Quizzez & Project Ideas
 
 Welcome to **CodeCommons**, a centralized place for developers to find high-quality free notes, cheat sheets, tutorials, and open-source learning resources. Whether you're just starting out or leveling up your stack, this is your go-to bookmark.
 
