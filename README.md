@@ -65,7 +65,7 @@ This repository is perfect for:
 
 # 📌 Google API Library:
 - **[Google API Library](https://console.cloud.google.com/apis/library/browse?filter=category:maps&project=react-native-maps-457717)**
-- **[Google AI Studio (You can get your Gemini API Key from this link):](https://aistudio.google.com/app/prompts/new_chat)**
+- **[Google AI Studio (You can get your Gemini API Key from this link)](https://aistudio.google.com/app/prompts/new_chat)**
 
 # 📌 Free PDFs & Books:
 - **[HTML & CSS E-Book](https://github.com/Mutahir-15/Coding-Notes/tree/main/HTML%20%26%20CSS%20E-Book.pdf)**
