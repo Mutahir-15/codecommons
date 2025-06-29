@@ -102,12 +102,12 @@ This repository is perfect for:
 - **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
 - **[Best AI Code Editors in 2025](https://www.builder.io/blog/best-ai-code-editors?ref=dailydev)**
-- **[OpenAI Agents SDK Get Started](https://blog.gopenai.com/openai-sdk-get-started-i-e0bb84bff916)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
 - **[DeepSeek AI Python Integration](https://www.gcptutorials.com/post/deepseek-ai-python-integration-beginner's-guide-to-building-smart-applications)**
 - **[Effective Debugging Techniques](https://www.geeksforgeeks.org/debugging-techniques-for-beginners/)**
 - **[The Importance of Code Reviews](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)**
 - **[The 13 software engineering laws](https://newsletter.manager.dev/p/the-13-software-engineering-laws?ref=dailydev)**
+- **[OpenAI Agents SDK Get Started](https://blog.gopenai.com/openai-sdk-get-started-i-e0bb84bff916)**
 - **[Modern REST API Tutorial in Python](https://zato.io/en/blog/modern-rest-api-tutorial-in-python.html?ref=dailydev)**
 - **[How to Write Clean, Maintainable Code](https://www.freecodecamp.org/news/10-principles-of-clean-code/)**
 - **[12 Powerful CrewAI Tools For AI Agents](https://blog.dailydoseofds.com/p/12-powerful-tools-for-ai-agents?ref=dailydev)**
