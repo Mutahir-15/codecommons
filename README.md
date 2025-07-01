@@ -100,6 +100,7 @@ This repository is perfect for:
 
 # 📌 Must Read Articles:
 - **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
+- **[Tailwind CSS Animations](https://tailwindcss-animations.vercel.app/?ref=dailydev)**
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
 - **[Best AI Code Editors in 2025](https://www.builder.io/blog/best-ai-code-editors?ref=dailydev)**
 - **[300+ Free APIs for Developers](https://dev.to/hanzla-baig/300-free-apis-every-developer-needs-to-know-2ohm?ref=dailydev)**
