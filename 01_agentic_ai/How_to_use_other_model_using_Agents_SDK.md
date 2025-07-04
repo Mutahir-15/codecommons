@@ -74,7 +74,7 @@ Run the script:
 ```
 python your_script_name.py
 ```
-**or**
+**If using UV (Recommended)**
 ```
 uv run your_script_name.py
 ```
