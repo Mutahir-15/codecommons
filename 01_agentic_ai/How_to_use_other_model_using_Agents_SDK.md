@@ -56,6 +56,8 @@ This file contains a Python script that demonstrates how to integrate the Gemini
 
 ### Usage
 **Code Overview**
+
+
 The script performs the following steps:
 
 - Imports Required Modules: Loads necessary modules from the Agents SDK and environment loader.
