@@ -133,7 +133,6 @@ config = RunConfig(
 - Sets up the run configuration with the model, client, and optional tracing disabled.
 
 **Customization**
-
 - **Change Models:** Modify the **model** parameter in **OpenAIChatCompletionsModel** to use other Gemini models (e.g., gemini-1.0-pro).
 - **Update API Key:** Ensure the **.env** file contains the correct **GEMINI_API_KEY**.
 - **Enable Tracing:** Set **tracing_disabled=False** in **RunConfig** for SDK trace logging.
@@ -142,8 +141,10 @@ config = RunConfig(
 
 
 **Contributing**
+
 Feel free to fork this repository, submit issues, or create pull requests to improve the project.
 
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
