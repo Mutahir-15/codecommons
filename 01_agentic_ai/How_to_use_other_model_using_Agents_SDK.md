@@ -47,7 +47,7 @@ This file contains a Python script that demonstrates how to integrate the Gemini
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.x 
 - agents library (install via pip: pip install agents or uv: uv add openai_agents)
 - python-dotenv library (install via pip: pip install python-dotenv)
 - A .env file with your Gemini API key (e.g., GEMINI_API_KEY=your_api_key_here)
@@ -78,6 +78,8 @@ python your_script_name.py
 ```
 uv run your_script_name.py
 ```
+
+---
 
 
 ### Code Explanation
