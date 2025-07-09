@@ -74,8 +74,7 @@ Run the script:
 ```
 python your_script_name.py
 ```
-**If using UV (Recommended)**
-**[Intronduction to UV (Universal Virtualenv)](https://github.com/Mutahir-15/codecommons/tree/main/01_agentic_ai/02_uv)**
+**If using UV (Recommended): [Introduction to UV (Universal Virtualenv)](https://github.com/Mutahir-15/codecommons/tree/main/01_agentic_ai/02_uv)**
 ```
 uv run your_script_name.py
 ```
