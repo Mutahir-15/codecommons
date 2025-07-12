@@ -1,6 +1,6 @@
 # Hello World Agent
 
-Welcome to the **"Hello World Agent"**! This project demonstrates a basic implementation of an AI agent using the **Agents SDK** with the **Gemini API**, integrated via an *OpenAI-compatible interface**.
+Welcome to the **"Hello World Agent"**! This project demonstrates a basic implementation of an AI agent using the **Agents SDK** with the **Gemini API**, integrated via an **OpenAI-compatible interface**.
 The agent responds to a simple question about the fundamental pillars of Object-Oriented Programming (OOP) in Python.
 
 ### Features
