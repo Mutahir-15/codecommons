@@ -19,7 +19,7 @@ The agent responds to a simple question about the fundamental pillars of Object-
 
 ### Installation
 
-- Make sure UV is installed in your system, if not read this **[What is UV?)](https://github.com/Mutahir-15/codecommons/tree/main/01_agentic_ai/02_uv)**
+- Make sure UV is installed in your system, if not read this: **[What is UV?)](https://github.com/Mutahir-15/codecommons/tree/main/01_agentic_ai/02_uv)**
 - Clone the repository:
 ```
 git clone https://github.com/Mutahir-15/codecommons/tree/main/01_agentic_ai/03_hello_world_agent.git
