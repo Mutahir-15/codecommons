@@ -39,6 +39,8 @@ This project leverages the following frameworks:
 - **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)**
 
+## 📚 Usefull Articles
+- **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
 ---
 
 ## 🙌 Contributing
