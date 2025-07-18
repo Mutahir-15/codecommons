@@ -41,6 +41,7 @@ This project leverages the following frameworks:
 
 ## 📚 Usefull Articles
 - **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
+- **[What is Agentic AI? How it works, use cases & future scope](https://www.salesmate.io/blog/what-is-agentic-ai/)**
 ---
 
 ## 🙌 Contributing
