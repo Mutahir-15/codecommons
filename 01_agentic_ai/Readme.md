@@ -24,7 +24,7 @@ Agentic AI is transforming industries by enabling more intelligent, responsive s
 
 This project leverages the following frameworks:
 
-- 🔹 **OpenAI Agent SDK** – For building structured agents with tools, planning, and memory.
+- 🔹 **[OpenAI Agent SDK](https://openai.github.io/openai-agents-python/)** – For building structured agents with tools, planning, and memory.
 - 🔹 **Streamlit** – To create interactive dashboards and UI for agent interaction.
 - 🔹 **UV (Universal Virtualenv)** – For package and environment management.
 - 🔹 **OpenRouter** – For accessing and routing between multiple LLM providers.
