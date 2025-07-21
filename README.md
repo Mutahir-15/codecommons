@@ -136,6 +136,7 @@ This repository is perfect for:
 - **[Git Cheat Sheet – 50 Git Commands You Should Know](https://www.freecodecamp.org/news/git-cheat-sheet/?ref=dailydev)**
 - **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[8 Websites to Improve your Frontend Development Skills](https://uvaiscodes.blogspot.com/2024/11/frontend-development.html?ref=dailydev)**
+- **[6 Principles I Apply Every Day as a Software Developer](https://blog.mariofragnito.it/en-gb/posts/6-notions-i-use-in-my-everyday-life-as-a-software-developer/?ref=dailydev)**
 - **[10 ways to better organize and design your React Application](https://thetshaped.dev/p/10-ways-organize-and-design-react-application?ref=dailydev)**
 - **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
 - **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
