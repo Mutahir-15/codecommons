@@ -128,6 +128,7 @@ This repository is perfect for:
 - **[6 AI Agents That Are So Good, They Feel Illegal](https://medium.com/@hii_mohit/6-ai-agents-that-are-so-good-they-feel-illegal-e33a816ed803)**
 - **[A CheatSheet of 128 CheatSheets for Developers](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)**
 - **[Consecutive Scroll Animations with One Element](https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/?ref=dailydev)**
+- **[Think Like a Farmer - Software Engineer Edition](https://dev.to/iampraveen/think-like-a-farmer-software-engineer-edition-3i3f?ref=dailydev)**
 - **[CSS Scroll Effects: 50 Interactive Animations to Try](https://prismic.io/blog/css-scroll-effects?ref=dailydev)**
 - **[30 Seconds of Code (Short & Useful Code Snippets)](https://www.30secondsofcode.org/)**
 - **[A Comprehensive Guide to JavaScript Best Practices](https://www.sitepoint.com/javascript-best-practices/)**
