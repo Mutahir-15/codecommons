@@ -42,6 +42,7 @@ This project leverages the following frameworks:
 ## 📚 Usefull Articles
 - **[Leaked System Prompts](https://github.com/jujumilk3/leaked-system-prompts?ref=dailydev)**
 - **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
+- **[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)**
 - **[What is Agentic AI? How it works, use cases & future scope](https://www.salesmate.io/blog/what-is-agentic-ai/)**
 ---
 
