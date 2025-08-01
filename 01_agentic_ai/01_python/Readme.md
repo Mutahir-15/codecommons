@@ -60,6 +60,7 @@ The goal of this section is to:
 ## 📚 Resources
 Here are some learning resources you can explore:
 - **[Python official Docs](https://docs.python.org/3/)**
+- **[Object-Oriented Programming (OOP) in Python](https://realpython.com/python3-object-oriented-programming/)**
 - **[Panaversity Modern AI Python (Complete Course)](https://github.com/panaversity/learn-modern-ai-python)**
 
 ---
