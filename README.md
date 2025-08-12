@@ -21,6 +21,7 @@ This repository is perfect for:
 - **[CodingNotes.io](https://www.codingnotes.io/)** 
 - **[Python Cheat-Sheet](https://www.pythoncheatsheet.org/)**
 - **[Python Cheat-Sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=152984014934&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=684592140635&utm_targetid=aud-517318242147:dsa-2219652735736&utm_loc_interest_ms=&utm_loc_physical_ms=1011081&utm_content=ps-other~apac-en~dsa~tofu~cheat-sheet-python&accountid=9624585688&utm_campaign=230119_1-ps-other~dsa~tofu_2-b2c_3-apac_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&gad_source=1&gbraid=0AAAAADQ9WsG1HbCpCqwA_cfdI4Va_THr9&gclid=Cj0KCQjw5azABhD1ARIsAA0WFUGEQZE9ADD4zBKCwGkmUh_xIGTh2tHmX2C7t9NrjToALFVseBmS4okaAiyoEALw_wcB)**
+- **[CSS Layout Generator](https://layout.bradwoods.io/?ref=dailydev)**
 - **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 - **[Streamlit Cheat-Sheet](https://docs.streamlit.io/develop/quick-reference/cheat-sheet)**
 - **[Introduction to *CrewAI*](https://docs.crewai.com/introduction)**
