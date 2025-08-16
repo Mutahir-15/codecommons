@@ -159,6 +159,7 @@ This repository contains cheat sheets, PDFs, and notes on various technologies, 
 🐍 Python – Unlocking the power of coding<br>
 
 **🎯 Why This Repo?**<br>
+
 ✅ To help learners—whether beginners or advanced—grasp concepts quickly  
 ✅ To make knowledge free and accessible beyond borders  
 ✅ To create a collaborative space for sharing and growing together  <br>
