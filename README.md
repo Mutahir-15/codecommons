@@ -146,6 +146,7 @@ This repository is perfect for:
 - **[How Attackers Steal Data from Websites (And How to Stop Them)](https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/?ref=dailydev)**
 - **[China’s six-year-olds are already being offered AI classes in school](https://www.yahoo.com/news/china-six-olds-already-being-160253267.html?guccounter=1)**
 - **[The Best 100 Free UI/UX Resources for Every Designer & Developer](https://pixicstudio.medium.com/the-best-100-free-ui-ux-resources-for-every-designer-developer-da306eb72919)**
+- **[19 Beautiful Themes to Get a Better Visual Experience With VS Code](https://itsfoss.com/vs-code-themes/?ref=dailydev)**
 - **[Basic AI Prompts for Developers: Practical Examples for Everyday Tasks](https://portkey.ai/blog/basic-ai-prompts-for-developers/?ref=dailydev)**
 - **[Stanford Webinar - Agentic AI: A Progression of Language Model Usage](https://www.youtube.com/watch?v=kJLiOGle3Lw)**
 - **[My Favorite Front-End Tools: A Developer's Arsenal for Modern Web Development](https://blog.curbanii.net/my-favorite-front-end-tools-a-developers-arsenal-for-modern-web-development/?ref=dailydev)**
