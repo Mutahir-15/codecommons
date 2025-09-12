@@ -35,6 +35,7 @@ This project leverages the following frameworks:
 ## 📚 Learning Resources
 
 - **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**
+- **[Welcome to n8n Docs](https://docs.n8n.io/)**
 - **[Panaversity Learn Agentic-AI](https://github.com/panaversity/learn-agentic-ai/tree/main)**
 - **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)**
@@ -50,5 +51,6 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR.
+
 
 
