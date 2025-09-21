@@ -100,7 +100,6 @@ This repository is perfect for:
 - **[25 Python Projects for Beginners – Easy Ideas to Get Started Coding Python](https://www.freecodecamp.org/news/python-projects-for-beginners/#heading-qr-code-encoder-decoder-python-project)**
 
 # 📌 Must Read Articles:
-- **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[Tailwind CSS Animations](https://tailwindcss-animations.vercel.app/?ref=dailydev)**
 - **[Beautiful animated icons](https://unicornicons.com/?ref=dailydev)**
 - **[Cursor for Large Projects](https://getstream.io/blog/cursor-ai-large-projects/?ref=dailydev)**
