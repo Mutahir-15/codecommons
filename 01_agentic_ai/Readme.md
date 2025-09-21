@@ -47,12 +47,14 @@ This project leverages the following frameworks:
 - **[OpenAI Agents SDK Get Started](https://blog.gopenai.com/openai-sdk-get-started-i-e0bb84bff916)**
 - **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
 - **[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)**
+- **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[What is Agentic AI? How it works, use cases & future scope](https://www.salesmate.io/blog/what-is-agentic-ai/)**
 ---
 
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
