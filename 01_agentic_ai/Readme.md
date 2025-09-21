@@ -51,7 +51,8 @@ This project leverages the following frameworks:
 
 ## 🙌 Contributing
 
-Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR.
+Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
