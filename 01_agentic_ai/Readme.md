@@ -41,6 +41,7 @@ This project leverages the following frameworks:
 - **[Prompt Engineering Guide](https://www.promptingguide.ai/)**
 - **[Prompt Engineering and Context Engineering (YouTube Playlist)](https://www.youtube.com/watch?v=s0rQ6BsCyec&list=PL0vKVrkG4hWpeKmZyCRTpfRiLQ13b5uRX)**
 - **[Google AI Studio (You can get your Gemini API Key from this link)](https://aistudio.google.com/app/prompts/new_chat)**
+- **[Prompt and Context Engineering Tutorial for Beginners: A Comprehensive Guide to Effective AI Communication](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)**
 
 ## 📚 Usefull Articles
 - **[Leaked System Prompts](https://github.com/jujumilk3/leaked-system-prompts?ref=dailydev)**
@@ -58,6 +59,7 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
