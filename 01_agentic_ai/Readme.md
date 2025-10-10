@@ -51,12 +51,14 @@ This project leverages the following frameworks:
 - **[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)**
 - **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[What is Agentic AI? How it works, use cases & future scope](https://www.salesmate.io/blog/what-is-agentic-ai/)**
+- **[Complete Guide to Prompt Engineering with Temperature and Top-p ](https://promptengineering.org/prompt-engineering-with-temperature-and-top-p/)**
 - **[Basic AI Prompts for Developers: Practical Examples for Everyday Tasks](https://portkey.ai/blog/basic-ai-prompts-for-developers/?ref=dailydev)**
 ---
 
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
