@@ -36,7 +36,7 @@ This project leverages the following frameworks:
 - **[Qwen Code CLI GitHub](https://github.com/QwenLM/qwen-code)**
 - **[Qwen Code CLI Documentation](https://qwenlm.github.io/qwen-code-docs/en/)**
 - **[Gemini CLI GitHub](https://github.com/google-gemini/gemini-cli)**
-
+- **[Gemini CLI Documentation](https://geminicli.com/)**
 ---
 ## 📚 Learning Resources
 
@@ -65,6 +65,7 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
