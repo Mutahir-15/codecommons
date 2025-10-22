@@ -32,6 +32,10 @@ This project leverages the following frameworks:
 
 - ---
 
+## 🧰 AI Tools
+- **[Qwen Code CLI](https://github.com/QwenLM/qwen-code)**
+
+---
 ## 📚 Learning Resources
 
 - **[OpenAI Agents SDK](https://openai.github.io/openai-agents-python/)**
@@ -59,6 +63,7 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
