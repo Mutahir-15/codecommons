@@ -94,6 +94,11 @@ Covers:
     
 *   How to maintain realism
 
+Guides
+------------------------
+
+- **[12 Nano Banana Prompts to Convert Your Photos into Retro Images]**(https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/)
+
 How to Use These Prompts
 ------------------------
 
@@ -184,3 +189,4 @@ License
 -------
 
 Open-source for learning and non-commercial use.For commercial usage, please check the Gemini model licensing guidelines.
+
