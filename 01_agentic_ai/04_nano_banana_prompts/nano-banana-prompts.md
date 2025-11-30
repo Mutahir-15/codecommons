@@ -97,6 +97,9 @@ Covers:
 Guides
 ------------------------
 
+- **[Nano Banana Prompt Collection](https://nanobanana.im/prompts)**
+- **[31 Gemini Nano Banana Prompts for Men](https://imaginewithrashid.com/31-gemini-nano-banana-prompts-for-men/)**
+- **[Prompt Engineering Tutorial for Nano Banana by Panaversity](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering/image_generation)**
 - **[12 Nano Banana Prompts to Convert Your Photos into Retro Images](https://www.analyticsvidhya.com/blog/2025/09/nano-banana-retro-prompts/)**
 
 How to Use These Prompts
@@ -189,5 +192,6 @@ License
 -------
 
 Open-source for learning and non-commercial use.For commercial usage, please check the Gemini model licensing guidelines.
+
 
 
