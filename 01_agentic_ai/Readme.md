@@ -53,6 +53,7 @@ This project leverages the following frameworks:
 - **[Leaked System Prompts](https://github.com/jujumilk3/leaked-system-prompts?ref=dailydev)**
 - **[GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)**
 - **[OpenAI Agents SDK Get Started](https://blog.gopenai.com/openai-sdk-get-started-i-e0bb84bff916)**
+- **[Nano-Banana Pro Prompting Tips](https://github.com/ZeroLu/awesome-nanobanana-pro)**
 - **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
 - **[Agents SDK from OpenAI! | Full Tutorial](https://www.youtube.com/watch?v=35nxORG1mtg)**
 - **[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)**
@@ -65,6 +66,7 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
