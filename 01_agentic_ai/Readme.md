@@ -56,6 +56,7 @@ This project leverages the following frameworks:
 - **[Nano-Banana Pro Prompting Tips](https://github.com/ZeroLu/awesome-nanobanana-pro)**
 - **[What is MCP (Model Context Protocol)?](https://ai.plainenglish.io/what-is-mcp-model-context-protocol-18624a444b51)**
 - **[Agents SDK from OpenAI! | Full Tutorial](https://www.youtube.com/watch?v=35nxORG1mtg)**
+- **[Nano-Bana Pro Prompting guide & Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)**
 - **[Anthropic's Prompt Engineering Interactive Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial?ref=dailydev)**
 - **[What is Agentic AI? An Easy Explanation For Everyone](https://www.youtube.com/watch?v=-pqzyvRp3Tc)**
 - **[What is Agentic AI? How it works, use cases & future scope](https://www.salesmate.io/blog/what-is-agentic-ai/)**
@@ -66,6 +67,7 @@ This project leverages the following frameworks:
 ## 🙌 Contributing
 
 Pull requests and issues are welcome! If you find a bug or want to suggest a feature, feel free to open an issue or submit a PR. 
+
 
 
 
