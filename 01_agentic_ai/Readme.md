@@ -22,6 +22,8 @@ Agentic AI is transforming industries by enabling more intelligent, responsive s
 
 ## 🧰 Frameworks & Tools
 
+- **[Agent Factory Book by Panaversity](https://agentfactory.panaversity.org/)**
+
 This project leverages the following frameworks:
 
 - 🔹 **[OpenAI Agent SDK](https://openai.github.io/openai-agents-python/)**: For building structured agents with tools, planning, and memory.
